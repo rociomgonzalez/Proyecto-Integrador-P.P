@@ -1,0 +1,10 @@
+git init: Inicializa un repositorio local.
+git status: Muestra el estado de los archivos.
+git add: Agrega archivos al área de preparación.
+git commit: Guarda los cambios realizados.
+git push: Sube los cambios a GitHub.
+git pull: Descarga cambios del repositorio remoto.
+git clone: Clona un repositorio existente.
+git branch: Permite crear y administrar ramas.
+git checkout: Cambia entre ramas.
+git merge: Fusiona ramas en una sola.
